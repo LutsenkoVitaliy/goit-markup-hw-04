@@ -71,7 +71,7 @@ img {
 .logo > span {
   color: var(--accent-color);
 }
-.head-page {
+.portfolio-page {
   border-bottom: 1px solid #ececec;
 }
 .header {
@@ -130,7 +130,7 @@ img {
 }
 
 .contact-icon {
-  margin-left: 10px;
+  margin-right: 10px;
   fill: currentColor;
 }
 
